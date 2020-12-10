@@ -5,7 +5,7 @@ function Error() {
     <div className="container">
       <img
         className="error_dev"
-        src={"/ErrorPageImG.png"}
+        src={"./ErrorPageImG.png"}
         alt="Page not Found !"
       />
     </div>

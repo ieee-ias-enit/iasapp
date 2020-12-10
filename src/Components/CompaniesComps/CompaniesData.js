@@ -16,7 +16,7 @@ const CompaniesData = [
   {
     id: 2,
     Name: "studi",
-    Field: "hydraulique,civil,energie,gaz,petrole",
+    Field: "Hydraulic,Civil,Energy,Petroleum",
     Description:
       "le groupe STUDI intervient dans tous les domaines de l'ingénierie (infrastructures de transport , eau , gaz , énergie , petrole , telecommunications , agriculture , environnement et urbanisme ) et de l'economie (etudes institu) ",
     Phone: "70 021 000",
@@ -84,7 +84,7 @@ const CompaniesData = [
       "https://agkenergie.tn/photovoltaique-tunisie/wp-content/uploads/2016/04/logo.png",
     Phone: "71 821 821",
     Website: "https://www.agkenergie.tn/photovoltaique-tunisie/",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     Adress: "58 Avenue Ibn Khaldoun 2080 ARIANA",
     Mail: "contact@agkenergie.tn",
     City: "Ariana"
@@ -92,7 +92,7 @@ const CompaniesData = [
   {
     id: 7,
     Name: "ATAVI",
-    Field: "Hydraulique & Mécanique",
+    Field: "Hydraulic,Mechanical",
     Description:
       "Association Tunisienne d'Acoustique et Vibration Industrielles",
     LogoUrl: "http://www.atavi.org/images/logo.png",
@@ -107,7 +107,7 @@ const CompaniesData = [
   {
     id: 8,
     Name: "Green Tech",
-    Field: "AgriBuisiness,Industrial",
+    Field: "Biology,Chemical,Industrial",
     Description:
       "green tech Fondée en 2014 par une équipe d’ingénieurs maghrébins spécialistes en génie des procédés, la société GREEN TECH ENGINEERING basée à Sfax – TUNISIE développe des solutions industrielles « vertes » qui ont pour objectif l’amélioration des procédés de fabrication et la préservation de l’environnement.Notre équipe peut assurer, sur demande, l’étude et la réalisation des prototypes d’unités de production à l’échelle « pilote » pour l’élaboration et/ou la validation des brevets.Nos experts assurent des assistances techniques aux profits des industrielles ou des agriculteurs qui visent l’amélioration de leur production.",
     LogoUrl:
@@ -137,14 +137,14 @@ const CompaniesData = [
   {
     id: 10,
     Name: "ABJ Engineering",
-    Field: "Engineering,Consulting,Industrial",
+    Field: "Engineering consulting,Industrial",
     Description:
       "Bureau d'étude des installations de : Climatisation, Chauffage, Plomberie sanitaire, Piscine, Efficacité énergétique, Installations solaire, Cuisines et Buanderies professionnelles",
     LogoUrl:
       "https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/26219811_914601028713744_3001784822465196112_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_ohc=TU5rrTAPEB4AX-ZRlRK&_nc_ht=scontent.ftun2-1.fna&oh=a0e60a12e354dee8d8e3a31bd0a804ad&oe=5FC6AC89",
     Phone: "70823151",
     Website: "https://www.ween.tn/fiche/abj-engineering",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     City: "Ariana",
     Mail: "amel_bj@yahoo.fr",
     Adress: "7 Rue El Qods 2058 Riadh Landalous, Ariana"
@@ -152,7 +152,7 @@ const CompaniesData = [
   {
     id: 11,
     Name: "CPG",
-    Field: "Energie,Industrial,Mechanical,Hydrolic,Civil",
+    Field: "Energy,Industrial,Mechanical,Hydraulic,Civil",
     Description:
       "La Compagnie des Phosphates de Gafsa (CPG) est une entreprise publique anonyme à caractère industriel et commercial, qui a pour objet l'exploitation des gisements de phosphate en Tunisie.",
     LogoUrl: "https://www.cpg.com.tn/img/site.png",
@@ -166,7 +166,7 @@ const CompaniesData = [
   {
     id: 12,
     Name: "STEG",
-    Field: "Energie,Industrial,Electrical",
+    Field: "Energy,Industrial,Electrical",
     Description:
       "La STEG est responsable de la production de l'électricité et du Gaz de Pétrole Liquèfié (GPL) ainsi que du transport et de la distribution de l'électricité et du gaz naturel.",
     LogoUrl:
@@ -181,14 +181,14 @@ const CompaniesData = [
   {
     id: 13,
     Name: "CNI",
-    Field: "Informatique",
+    Field: "IT",
     Description:
       "Centre National d'informatique qui a un rôle dans le le développement des tests de principales applications nationales, sectorielles et à usage commun au profit de plusieurs ministères et entreprises publiques",
     LogoUrl:
       "https://pbs.twimg.com/profile_images/699614831402471425/UFLh9p6D_400x400.png",
     Phone: "71 783 055",
     Website: "www.cni.tn",
-    Governerate: "Tunis ",
+    Governerate: "Tunis",
     City: "El omrane",
     Adress: "17 Rue Belhassen Ben Chaabane 1005 El-Omrane",
     Mail: "webcni@cni.tn"
@@ -226,7 +226,7 @@ const CompaniesData = [
   {
     id: 16,
     Name: "Ooredoo",
-    Field: "IT",
+    Field: "IT,Telecommunication",
     Governerate: "Tunis",
     City: "Lac",
     LogoUrl: "https://www.ooredoo.tn/sites/all/themes/particulier/logo.png?23",
@@ -240,7 +240,7 @@ const CompaniesData = [
   {
     id: 17,
     Name: "API",
-    Field: " Industrie",
+    Field: " Industrial",
     Phone: " 71 792 144",
     Mail: "api@api.com.tn",
     Address: "63, Rue de Syrie 1002",
@@ -258,7 +258,7 @@ const CompaniesData = [
     LogoUrl: "http://www.tunisieindustrie.nat.tn/ar/images/bg/banner.png",
     Phone: " 71 716 064",
     Mail: "api@api.com.tn",
-    Governerate: " Tunis",
+    Governerate: "Ariana",
     Address: "11, rue Belhassen Jrad 2080",
     City: "Ariana",
     Website: "http://www.tunisieindustrie.nat.tn/",
@@ -274,7 +274,7 @@ const CompaniesData = [
     LogoUrl: "https://www.vermeg.com/assets/images/logo.png",
     Phone: "71 160 600",
     Website: "https://www.vermeg.com/",
-    Governerate: "Souss",
+    Governerate: "Sousse",
     City: "Sahloul",
     Mail: " job@vermeg.com",
     Address: "Avenue de la Liberté, Sahloul 2 4051 Sousse"
@@ -336,7 +336,7 @@ const CompaniesData = [
       "https://www.groupe-telnet.com/sites/all/themes/zen_subtheme/logo.png",
     Phone: "71 858 055",
     Website: "https://www.groupe-telnet.com/",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     City: "Ariana",
     Mail: " job@vermeg.com",
     Address:
@@ -374,7 +374,7 @@ const CompaniesData = [
   {
     id: 26,
     Name: "Arvea Nature",
-    Field: "Biologie,Chimie",
+    Field: "Biology,Chemical",
     Phone: "72 320 800",
     LogoUrl:
       "http://www.arvea-nature.com/end/uploads/images/logo-arvea-black.png",
@@ -404,14 +404,14 @@ const CompaniesData = [
   {
     id: 28,
     Name: "Sofiatech",
-    Field: " IT/Electrical eng",
+    Field: " IT,Electrical,Electronics",
     Description:
       "Sofia Technologies is an engineering and IT design office specialized in the design and integration of electronics, mechatronics, embedded software, cloud solutions and the Internet of Things. With an experienced team of engineers and a responsive organization, we deliver end-to-end rapid prototyping solutions, adaptable platforms at optimized cost, as well as business applications for the automotive, Agriculture, Medical, Smart City and more broadly IoT business",
     LogoUrl:
       "data:image/png;base64,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",
     Phone: "71940606",
     Website: "https://sofia-technologies.com/",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     City: "Ariana",
     Mail: "contact@sofia-technologies.com  ",
     Address: " Immeuble Hertz,20 Rue des Entrepreneurs 2035,Ariana,Tunisie"
@@ -419,7 +419,7 @@ const CompaniesData = [
   {
     id: 29,
     Name: "Enova ROBOYICS",
-    Field: "industrie robotique",
+    Field: "Industrial,Electronics",
     Description:
       "Enova Robotics conçoit, fabrique et commercialise des robots mobiles dans le domaine de la sécurité, la santé et la logistique.",
     LogoUrl: " https://www.enovarobotics.eu//assets/images/logo.png ",
@@ -461,7 +461,7 @@ const CompaniesData = [
   {
     id: 32,
     Name: "STIBOIS",
-    Field: "industrie",
+    Field: "Industrial",
     Description:
       "La société Stibois a été Créée en 1988, avec une passion grandissante pour les métiers du bois et une forte créativité constamment renouvelée. Avec une part de marché de 30%, STIBOIS représente un acteur majeur dans le secteur du bois et de l’ameublement et s’impose comme un partenaire incontournable pour les professionnels du métier.",
     LogoUrl: "http://www.stibois.com/assets/images/logo.png",
@@ -489,7 +489,7 @@ const CompaniesData = [
   {
     id: 34,
     Name: "RANDA",
-    Field: "Agribuisiness,Industrial,biology,chimie",
+    Field: "Agribuisiness,Industrial,Biology,chemical",
     Description:
       "RANDA est une entreprise tunisienne, spécialisée dans la transformation du blé dur en semoule et de la semoule en produits finis (Pâtes, couscous, farine et dérivés de l’orge). Industriels de la filière blé dur depuis plus de trois décennies, nous assurons une intégration complète de toutes les étapes de notre exploitation, depuis le stockage jusqu’à la fabrication des produits nobles que sont les pâtes et les grains de couscous. Nous conjuguons pour cela un savoir-faire traditionnel et ancestral et les dernières innovations technologiques.",
     LogoUrl: "http://www.randa.tn/assets/images/logo.png",
@@ -503,7 +503,7 @@ const CompaniesData = [
   {
     id: 35,
     Name: "CMC",
-    Field: "industrial",
+    Field: "Industrial",
     Description:
       "CMC est présente dans le domaine de la mode, la confection, la maroquinerie, la chaussure, vêtement de travail, l'ameublement, le médicale, l’automotive et même l’aéronautique",
     LogoUrl:
@@ -549,7 +549,7 @@ const CompaniesData = [
   {
     id: 38,
     Name: "Safran",
-    Field: "Mechanical",
+    Field: "Mechanical,Aeronautical",
     Description:
       "Safran est un groupe international de haute technologie opérant dans les domaines de l’aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l’environnement, plus confortable et plus accessible.",
     LogoUrl:
@@ -642,7 +642,7 @@ const CompaniesData = [
   {
     id: 44,
     Name: "Sofrocom",
-    Field: "IT",
+    Field: "IT,Telecommunication",
     Description:
       "Sofrecom est une entreprise de conseil et d’ingénierie, appartenant au groupe Orange, spécialisée dans les télécoms et couvrant tous les métiers de l’opérateur grâce à son large spectre d’expertises pointues.",
     LogoUrl:
@@ -685,7 +685,7 @@ const CompaniesData = [
   {
     id: 46,
     Name: "Audi Tunisie",
-    Field: "Mecanique",
+    Field: "Mechanical",
     Description:
       "Une Audi, c'est un concentré de technologies combiné à une performance et une esthétique sans égal.A son bord, accueillez la route comme il se doit!",
     LogoUrl:
@@ -700,7 +700,7 @@ const CompaniesData = [
   {
     id: 47,
     Name: "Vitaminn",
-    Field: "environment ",
+    Field: "Hydraulicn,Environmental",
     Description:
       "Cabinet de conseil et d'expertise pour les industriels tunisiens. Expertise en Industrie 4.0, Lean manufacturier, processus d'innovation. Services: audits, conduites de projet, veille technologique et stratégique, formation continue.",
     LogoUrl:
@@ -729,7 +729,7 @@ const CompaniesData = [
   {
     id: 49,
     Name: "Sopra HR Software",
-    Field: "Informatique",
+    Field: "IT",
     Description:
       "Sopra HR Software, acteur global des Ressources Humaines, offre l’un des portefeuilles de services et solutions les plus complets du marché.Pilotage et transformation RH, paie, conformité, talent management dans un contexte local et international… Sopra HR accompagne plus de 850 clients des secteurs public et privé, en mode cloud ou « on-premise ».",
     Phone: "71 167 300",
@@ -753,14 +753,14 @@ const CompaniesData = [
     Address:
       "Parc Technologique des Communications, Route de Raoued - B.P. 16 - Ariana - 2088 - Tunisia",
     Website: "https://www.omniacom.com/",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     City: "Ariana",
     Mail: "omniacom@omniacom.com"
   },
   {
     id: 51,
     Name: "GIPA",
-    Field: "Agroalimentaire",
+    Field: "Agribuisiness",
     Description:
       "GIPA utilise les méthodes de fabrication les plus avancées et les meilleurs équipements. Son nom est associé à la crème glacée, aux cornets, aux yaourts, aux jus et aux pâtisseries. Le premier métier de GIPA lors de sa création était la fabrication de crème glacée. Sa première unité de production fût acquise en 1978.",
     LogoUrl:
@@ -789,7 +789,7 @@ const CompaniesData = [
   {
     id: 53,
     Name: "ACC",
-    Field: "Engineering,Consulting",
+    Field: "Engineering Consulting",
     Description:
       "acc est une societe tunisienne d'etude et de conseil crée par ali chelbi et a pour mission d'accomapagner les opérateurs et décideurs privés et publics dans l'élaboration de leurs stratégies,l'amélioration de leurs performances et l'ancrage du changement dans leur organisation.",
     LogoUrl: "https://ween.tn/uploads/image/12243/12241/avatar/avatar.png",
@@ -803,7 +803,7 @@ const CompaniesData = [
   {
     id: 54,
     Name: " STIR",
-    Field: "chimie,petrole,industrie",
+    Field: "Chemical,Petroleum,Industrial",
     Description: "Société Tunisienne des Industries de Raffinage",
     LogoUrl: "https://www.stir.com.tn/fr/images/logo.png",
     Phone: "72 592 744",
@@ -816,7 +816,7 @@ const CompaniesData = [
   {
     id: 55,
     Name: "BSB TOYOTA GROUP",
-    Field: "automobile,industrie,immobilier",
+    Field: "Mechanical,Industrial,Finance",
     Description:
       "BSB Groupe est l’un des principaux acteurs économiques en Tunisie opérant dans plusieurs domaines d’activités depuis son établissement en 1968 (Sharp, électroménager, énergie renouvelable, immobilier, agriculture, l’industrie alimentaire et l’automobile)",
     LogoUrl:
@@ -831,7 +831,7 @@ const CompaniesData = [
   {
     id: 56,
     Name: "Bétec",
-    Field: "Engineering,Consulting",
+    Field: "Engineering Consulting",
     Description: "BUREAU D'ETUDES TECHNIQUES ET ECONOMIQUES",
     LogoUrl: "",
     Phone: "71500217",
@@ -844,7 +844,7 @@ const CompaniesData = [
   {
     id: 58,
     Name: "Helberton School Tunis",
-    Field: "Informatique",
+    Field: "IT",
     Description: "École d'informatique",
     LogoUrl:
       "https://rails-assets.holbertonschool.com/assets/logos/holberton-school-logo_tablet-1-56483dc57aa4cccfa0aa15da6c8bc0621e5ec4b6c220474d0569b291ef7ee79f.png",
@@ -859,7 +859,7 @@ const CompaniesData = [
   {
     id: 59,
     Name: "Haier",
-    Field: "Electronic,Electrical",
+    Field: "Electronics,Electrical",
     Description:
       "Commercialise la marque  HAIER Leader chinois de la climatisation et de l' électroménagers: commerce en gros et en détails.",
     LogoUrl:
@@ -917,7 +917,7 @@ const CompaniesData = [
   {
     id: 63,
     Name: "ATMI",
-    Field: "informatique",
+    Field: "IT",
     Description: "assistance technique,maintenance et informatique",
     LogoUrl: "http://www.atmi.com.tn/wp-content/uploads/2016/03/logo-atmi.gif",
     Phone: "70749222",
@@ -945,7 +945,7 @@ const CompaniesData = [
   {
     id: 66,
     Name: "CTN",
-    Field: "transport maritime/navigation",
+    Field: "Mechanical,Marine,Industrial",
     Description:
       "cette compagnie a pour but de participer pleinement au développement du transport maritime tunisien et d’être un trait d’union entre les deux rives des la méditerranée, la CTN accorde un intérêt constant à la modernisation de ses systèmes d’information et de communication ",
     LogoUrl: "https://www.ctn.com.tn/wp-content/uploads/2016/05/logo.png",
@@ -959,7 +959,7 @@ const CompaniesData = [
   {
     id: 67,
     Name: "CCK",
-    Field: "Informatique",
+    Field: "IT",
     Description:
       " Le CCK (centre de calcul Al-Khawarizmi ) a pour mission d’organiser, de promouvoir, d’assurer et d’encourager l’utilisation des technologies numériques dans le milieu universitaire et scientifique en général.Il est chargé aussi de la recherche dans ce domaine en vue d’améliorer l’utilisation de la technologie informationnelle numérique dans le milieu universitaire ainsi qu’au profit des enseignants et des étudiants.",
     LogoUrl: "http://www.cck.rnu.tn/cck_images/logo-cck_website.jpg",
@@ -973,7 +973,7 @@ const CompaniesData = [
   {
     id: 68,
     Name: "CELECTRONIX",
-    Field: "Electronic",
+    Field: "Electronics",
     Description:
       "CELECTRONIX, filiale de la société Corail Technologie, est un des distributeurs leaders sur le marché du B2B pour les fournitures industrielles, les composants électroniques, robotiques, Arduino, Raspberry, STM32 et équipements didactiques. ",
     LogoUrl:
@@ -1019,7 +1019,7 @@ const CompaniesData = [
   {
     id: 72,
     Name: "Chappel industries",
-    Field: "électrique,industrie",
+    Field: "Electrical,Industrial",
     Description:
       "CHAPPEL INDUSTRIES est une société industrielle franco-tunisienne totalement exportatrice dont la vocation est le bobinage électrique et électronique",
     LogoUrl:
@@ -1034,7 +1034,7 @@ const CompaniesData = [
   {
     id: 73,
     Name: "Les Ciments De Bizerte",
-    Field: "Matériaux",
+    Field: "Materials",
     LogoUrl:
       "http://www.lescimentsdebizerte.ind.tn/images/ar/ciments-bizerte.gif",
     Description:
@@ -1064,7 +1064,7 @@ const CompaniesData = [
   {
     id: 75,
     Name: "Aster",
-    Field: "Informatique",
+    Field: "IT",
     Description:
       "La société ASTER INFORMATIQUE est une filiale de de Poulina Group Holding (PGH) et son capital social s'élève à 2 240 000 DT. Créée en 1983  la société ASTER INFORMATIQUE fait partie aujourd'hui des 5 premières entreprises du secteur informatique en Tunisie qui compte près de 200 opérateurs.La compatibilité du lecteur d'écran est activée .",
     Phone: "71881002/ 71882411 ",
@@ -1078,7 +1078,7 @@ const CompaniesData = [
   {
     id: 76,
     Name: "Sopal",
-    Field: "Métallique",
+    Field: "Materials",
     Description:
       "Elle est leader sur le marché de la fabrication d'articles dans les secteurs de l'équipement sanitaire, de la Robinetterie Sanitaire, du Branchement d'Eau et du Branchement Gaz",
     Phone: "74 46 89 00 ",
@@ -1092,7 +1092,7 @@ const CompaniesData = [
   {
     id: 77,
     Name: "ETEP",
-    Field: "civil",
+    Field: "Civil",
     LogoUrl: "http://www.etep-group.com/images/logo/etep.png",
     Description:
       "L’ETEP est une entreprise de travaux et d’étude de projets qui a été créée en mars 1973",
@@ -1107,7 +1107,7 @@ const CompaniesData = [
   {
     id: 78,
     Name: "ELTEC",
-    Field: "Electrique",
+    Field: "Electrical",
     LogoUrl: "",
     Description:
       "Vente matériel électrique et d'éclairage Câblage armoires électriques Installation électrique industrielle Equipement réparation et bobinage transformateurs",
@@ -1120,10 +1120,10 @@ const CompaniesData = [
   },
   {
     id: 79,
-    Name: "Diagnostic, Surveillance & Instrumentation D.S.I",
-    Field: "Instrumentation",
+    Name: "D.S.I",
+    Field: "Finance,Industrial,Instrumentation",
     Description:
-      "Réseau des acheteurs vendeurs produits services opportunités d'affaires Tunisie.",
+      "Diagnostic, Surveillance & Instrumentation D.S.I est un réseau des acheteurs vendeurs produits services opportunités d'affaires Tunisie.",
     LogoUrl: "",
     Phone: "71 583 888",
     Website: "",
@@ -1143,7 +1143,7 @@ const CompaniesData = [
     LogoUrl:
       "data:image/jpeg;base64,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",
     Website: "www.ey.com/en_tn",
-    Governerate: "Tunis",
+    Governerate: "Ariana",
     City: "Ariana",
     Mail: "	tunisoffice@tn.ey.com",
     Address: "Boulevard de la Terre, Centre Urbain Nord,Tunis 1003"
@@ -1196,7 +1196,7 @@ const CompaniesData = [
   {
     id: 83,
     Name: "Electrostar",
-    Field: "Electrique ",
+    Field: "Electrical",
     Description:
       "marque coréenne d'électroménager et de produits Audio-Vidéo cherchait à se développer de par le monde.",
     Phone: "71115100 /71115100",
@@ -1210,7 +1210,7 @@ const CompaniesData = [
   },
   {
     id: 84,
-    Name: "3S ",
+    Name: "3S",
     Field: "IT",
     Description:
       " Offrir des solutions personnalisées et à forte valeur technologique",
@@ -1225,7 +1225,7 @@ const CompaniesData = [
   {
     id: 85,
     Name: "Last Price Tunisie",
-    Field: "Finance,Economie",
+    Field: "Finance",
     Description:
       "LastpriceTunisie.tn est le meilleur site de vente en ligne en Tunisie au meilleur prix, Vente en gros et en détaille de Smartphone, TV, Bricolage, électroménager, Impression, Informatique, PC portable, haut-parleur, Récepteur, Accessoires parabole, Accessoires Téléphone, Réfrigérateur, Cuisinière, produit de cuisson et Produits de Sécurités ",
     LogoUrl:
@@ -1240,7 +1240,7 @@ const CompaniesData = [
   {
     id: 86,
     Name: "Wallyscar",
-    Field: "Construction automobile ",
+    Field: "Mechanical,Industrial",
     Description:
       " Création des voitures publiques tunisienne exportée vers l'Europe",
     LogoUrl:
@@ -1270,7 +1270,7 @@ const CompaniesData = [
   {
     id: 89,
     Name: "Gfi Tunisie",
-    Field: "Entreprise de service du numérique",
+    Field: "IT",
     Description:
       "Gfi Tunisie filiale de Gfi World est une ESN (Entreprise de service du numérique) pluridisciplinaire ayant plus de dix ans d'expérience dans le domaine du conseil et l'ingénierie informatique.",
     LogoUrl:
@@ -1286,7 +1286,7 @@ const CompaniesData = [
   {
     id: 90,
     Name: "FAZE",
-    Field: "Electronique",
+    Field: "Electronics",
     Description:
       "Prise en charge l'étude, conception et la réalisation de solution complète de distribution d'énergie BT/MT des sites industriels et tertiaires",
     LogoUrl: "",
@@ -1299,10 +1299,10 @@ const CompaniesData = [
   },
   {
     id: 91,
-    Name: "TIC - TECHNIQUE INSPECTION ET CONTROLE",
+    Name: "TIC",
     Field: "Services aux entreprises",
     Description:
-      "Nous accompagnons nos clients pour identifier, réduire et maîtriser les risques liés à la qualité, à la sécurité des biens et des personnes et à la protection de l’environnement à travers une large gamme de prestations d’inspection et de contrôle pour l’industrie pétrolière/pétrochimique, Energie, Construction Génie Civil et autres industries",
+      "TIC - TECHNIQUE INSPECTION ET CONTROLE nous accompagnons nos clients pour identifier, réduire et maîtriser les risques liés à la qualité, à la sécurité des biens et des personnes et à la protection de l’environnement à travers une large gamme de prestations d’inspection et de contrôle pour l’industrie pétrolière/pétrochimique, Energie, Construction Génie Civil et autres industries",
     LogoUrl:
       "http://tic-inspectiongroup.com/wp-content/themes/elision/img/logo_black.png",
     Phone: "71 180 140",
@@ -1315,7 +1315,7 @@ const CompaniesData = [
   {
     id: 92,
     Name: "Netcom",
-    Field: "Informatique",
+    Field: "IT",
     Description:
       "Société est  spécialisée dans l'installation de firewall et l'installation de solution VOIP professionnelle et armoire",
     LogoUrl:
@@ -1330,7 +1330,7 @@ const CompaniesData = [
   {
     id: 93,
     Name: "Ennakl Automobiles",
-    Field: "Mecanique",
+    Field: "Mechanical",
     Description:
       "Ennakl Automobiles est l'importateur officiel et le concessionnaire en Tunisie des marques Volkswagen, Volkswagen Utilitaires, Audi, Porsche, SEAT, Škoda et Dasweltauto.",
     LogoUrl: "https://www.ennakl.com/Fr/upload/1593423953.jpg",
@@ -1344,7 +1344,7 @@ const CompaniesData = [
   {
     id: 94,
     Name: "Skoda Tunisie",
-    Field: "Mecanique",
+    Field: "Mechanical",
     Description:
       "Trouvez le Véhicule de vos Rêves parmi nos Modèles. Demandez un Devis En Ligne ! Envie de Rouler en ŠKODA ? Réservez un Test Drive dans l'un des nos Showroom. Brochure Gratuite Online. Véhicules d'Occasion. Réparateurs Agréés. Dépannage 24h/24 et 7j/7",
     LogoUrl:
@@ -1359,7 +1359,7 @@ const CompaniesData = [
   {
     id: 95,
     Name: "Sotuver",
-    Field: "Industrie et énergie :verre",
+    Field: "Industrial,Energy",
     Description:
       "Fabrication des emballages en verre :bouteille, flacon, pot, bocaux",
     LogoUrl: "http://www.sotuver.com.tn/fr/image/gif/logo.gif",
@@ -1402,7 +1402,7 @@ const CompaniesData = [
   {
     id: 98,
     Name: "Proged",
-    Field: "Technologies et services de l’information",
+    Field: "IT",
     Description:
       "société de services et d’ingénierie informatique, qui offre une large gamme de solutions innovantes répondant au besoin de tout type d’entreprises en matière de portails d’entreprise, de gestion électronique de documents et d’outils d’aide à la décision.",
     LogoUrl:
@@ -1434,7 +1434,7 @@ const CompaniesData = [
   {
     id: 100,
     Name: "Proged",
-    Field: "Technologies et services de l’information",
+    Field: "IT",
     Description:
       "société de services et d’ingénierie informatique, qui offre une large gamme de solutions innovantes répondant au besoin de tout type d’entreprises en matière de portails d’entreprise, de gestion électronique de documents et d’outils d’aide à la décision",
     LogoUrl:

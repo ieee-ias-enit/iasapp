@@ -10,15 +10,18 @@ import CompanyList from "./Components/CompaniesComps/CompaniesList";
 import CompanyData from "./Components/CompaniesComps/CompaniesData";
 import Header from "./Components/Header/Header";
 import Home from "./Components/Home/Home";
+import About from "./Components/Home/About";
 import Footer from "./Components/Footer/Footer";
 import Error from "./Components/Error/Error";
 import ParticlesBg from "particles-bg";
 import SearchBox from "./Components/Utils/SearchBox";
-
+import SelectOption from "./Components/Utils/SelectOption"
 function App() {
   const [companyName, setCompanyName] = useState("");
   const [Companies, setCompanies] = useState(CompanyData);
-  const [field, setField] = React.useState("");
+  const [Field, setField] = useState("");
+  const [Location, setLocation] = useState("");
+
   return (
     <React.Fragment>
       <Router>
@@ -26,8 +29,14 @@ function App() {
           <Route path="/iasapp/TNCompanies">
             <Header backButton="/iasapp/Home" />
             <SearchBox setCompanyName={setCompanyName} />
-            <CompanyList companyNamekey={companyName} data={Companies} />
-            <Footer />
+            <SelectOption setField={setField} setLocation={setLocation}/>
+            <CompanyList 
+                companyNamekey={companyName}
+                Fieldkey={Field}
+                Locationkey={Location} 
+                data={Companies} />
+            
+            <Footer/>
           </Route>
 
           <Route path="/iasapp/Home">
@@ -38,7 +47,7 @@ function App() {
 
           <Route path="/iasapp/About">
             <Header backButton="/iasapp/Home" />
-            <Home />
+            <About />
             <Footer />
           </Route>
 
@@ -51,7 +60,7 @@ function App() {
           <Redirect to="/iasapp/Error" />
         </Switch>
       </Router>
-      <ParticlesBg color="#259e57" num={200} type="cobweb" bg={true} />
+      <ParticlesBg color="#244324" num={200} type="cobweb" bg={true} />
     </React.Fragment>
   );
 }

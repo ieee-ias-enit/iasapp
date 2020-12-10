@@ -2,7 +2,11 @@ import React from "react";
 import CompanyCard from "./CompanyCard";
 import "./StyleCompanies.css";
 
-export default function CompanyList({ companyNamekey, data }) {
+export default function CompanyList({ companyNamekey, Fieldkey, Locationkey , data }) {
+  if(Locationkey !=="")
+    data=data.filter(el=>el.Governerate.toLowerCase().trim()===Locationkey.toLowerCase().trim())
+  if(Fieldkey !=="")
+    data=data.filter(el=>el.Field.trim().toLowerCase().split(",").includes(Fieldkey.toLowerCase().trim()))
   return (
     <div className="CardsWrapper">
       <div
@@ -10,7 +14,8 @@ export default function CompanyList({ companyNamekey, data }) {
           display: "flex",
           flexDirection: "row",
           justifyContent: "space-evenly",
-          flexWrap: "wrap"
+          flexWrap: "wrap",
+          marginBottom:"20%"
         }}
       >
         {data
