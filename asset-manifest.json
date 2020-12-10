@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/iasapp/static/css/main.24d6f205.chunk.css",
-    "main.js": "/iasapp/static/js/main.c6550ca8.chunk.js",
-    "main.js.map": "/iasapp/static/js/main.c6550ca8.chunk.js.map",
+    "main.css": "/iasapp/static/css/main.7b8b5fa0.chunk.css",
+    "main.js": "/iasapp/static/js/main.5653bb27.chunk.js",
+    "main.js.map": "/iasapp/static/js/main.5653bb27.chunk.js.map",
     "runtime-main.js": "/iasapp/static/js/runtime-main.6e032ecf.js",
     "runtime-main.js.map": "/iasapp/static/js/runtime-main.6e032ecf.js.map",
     "static/js/2.04fba70c.chunk.js": "/iasapp/static/js/2.04fba70c.chunk.js",
     "static/js/2.04fba70c.chunk.js.map": "/iasapp/static/js/2.04fba70c.chunk.js.map",
     "index.html": "/iasapp/index.html",
-    "static/css/main.24d6f205.chunk.css.map": "/iasapp/static/css/main.24d6f205.chunk.css.map",
+    "static/css/main.7b8b5fa0.chunk.css.map": "/iasapp/static/css/main.7b8b5fa0.chunk.css.map",
     "static/js/2.04fba70c.chunk.js.LICENSE.txt": "/iasapp/static/js/2.04fba70c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e032ecf.js",
     "static/js/2.04fba70c.chunk.js",
-    "static/css/main.24d6f205.chunk.css",
-    "static/js/main.c6550ca8.chunk.js"
+    "static/css/main.7b8b5fa0.chunk.css",
+    "static/js/main.5653bb27.chunk.js"
   ]
 }
