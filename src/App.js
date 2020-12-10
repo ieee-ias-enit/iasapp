@@ -51,6 +51,12 @@ function App() {
             <Footer />
           </Route>
 
+          <Route exact path="/iasapp/">
+            <Header />
+            <Home />
+            <Footer />
+          </Route>
+          
           <Route path="/iasapp/Error">
             <Header backButton="/iasapp/Home" />
             <Error />

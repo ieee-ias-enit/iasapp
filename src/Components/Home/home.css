@@ -122,7 +122,7 @@
 }
 .Modal{
   margin: 50px auto;
-  padding: 30px;
+  padding: 20px;
   margin-left: 35%;
   margin-bottom: 20%;
   height: 500px;
@@ -144,6 +144,6 @@
   text-align: justify;
 }
 .Modal > img{
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
