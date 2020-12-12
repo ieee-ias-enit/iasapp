@@ -392,7 +392,7 @@ const CompaniesData = [
     Field: "Electrical,Industrial",
     Phone: "71341715 , 71353556	",
     LogoUrl:
-      "http://www.arvea-nature.com/end/uploads/images/logo-arvea-black.png",
+      "",
     Mail: "	bfr.electric@planet.tn",
     Adress: "31, R. Ahmed TLILI 1001 TUNIS REPUBLIQUE TUNIS",
     City: "Sidi Hassine",
@@ -408,7 +408,7 @@ const CompaniesData = [
     Description:
       "Sofia Technologies is an engineering and IT design office specialized in the design and integration of electronics, mechatronics, embedded software, cloud solutions and the Internet of Things. With an experienced team of engineers and a responsive organization, we deliver end-to-end rapid prototyping solutions, adaptable platforms at optimized cost, as well as business applications for the automotive, Agriculture, Medical, Smart City and more broadly IoT business",
     LogoUrl:
-      "data:image/png;base64,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",
+      "https://sofia-technologies.com/wp-content/uploads/2020/08/logo-sofia-tech-final-01.png",
     Phone: "71940606",
     Website: "https://sofia-technologies.com/",
     Governerate: "Ariana",
@@ -418,11 +418,11 @@ const CompaniesData = [
   },
   {
     id: 29,
-    Name: "Enova ROBOYICS",
+    Name: "Enova ROBOTICS",
     Field: "Industrial,Electronics",
     Description:
       "Enova Robotics conçoit, fabrique et commercialise des robots mobiles dans le domaine de la sécurité, la santé et la logistique.",
-    LogoUrl: " https://www.enovarobotics.eu//assets/images/logo.png ",
+    LogoUrl: "https://img.favpng.com/22/17/7/logo-enova-robotics-brand-font-png-favpng-y4MDpg7w2fnr1Mg38ktJvEYwb.jpg",
     Phone: "73 823 023",
     Website: "https://www.enovarobotics.eu/",
     Governerate: "sousse",
@@ -436,7 +436,7 @@ const CompaniesData = [
     Field: "Civil",
     Description:
       "SBF est un pôle d’entreprises de construction regroupées autour de 4 principaux métiers: BTP, Fondations profondes, Exploitation de carrières et Promotion immobilière.",
-    LogoUrl: "http://www.sbf.com.tn/assets/images/logo.png",
+    LogoUrl: "https://www.tunisietravail.net/uploads/2014/11/sbf.png",
     Phone: "71 773 680",
     Website: "http://www.sbf.com.tn/",
     Governerate: "Tunis",
@@ -450,7 +450,7 @@ const CompaniesData = [
     Field: "Civil",
     Description:
       "SBF est un pôle d’entreprises de construction regroupées autour de 4 principaux métiers: BTP, Fondations profondes, Exploitation de carrières et Promotion immobilière.",
-    LogoUrl: "http://www.sbf.com.tn/assets/images/logo.png",
+    LogoUrl: "https://www.tunisietravail.net/uploads/2014/11/sbf.png",
     Phone: "71 496 255",
     Website: "http://www.sbf.com.tn/",
     Governerate: "Ben Arous",
@@ -464,12 +464,12 @@ const CompaniesData = [
     Field: "Industrial",
     Description:
       "La société Stibois a été Créée en 1988, avec une passion grandissante pour les métiers du bois et une forte créativité constamment renouvelée. Avec une part de marché de 30%, STIBOIS représente un acteur majeur dans le secteur du bois et de l’ameublement et s’impose comme un partenaire incontournable pour les professionnels du métier.",
-    LogoUrl: "http://www.stibois.com/assets/images/logo.png",
+    LogoUrl: "http://www.stibois.com/public/img/logo-stibois.png",
     Phone: "70 020 800",
     Website: "http://www.stibois.com/",
     Governerate: "Ben Arous",
     City: "Bir El Kassaa",
-    Mail: " mailto:contact@stibois.com",
+    Mail: "contact@stibois.com",
     Address: "Z.I Bir El Kassaa 2013 BEN AROUS"
   },
   {
@@ -478,7 +478,7 @@ const CompaniesData = [
     Field: "Civil",
     Description:
       "SBF est un pôle d’entreprises de construction regroupées autour de 4 principaux métiers: BTP, Fondations profondes, Exploitation de carrières et Promotion immobilière.",
-    LogoUrl: "http://www.sbf.com.tn/assets/images/logo.png",
+    LogoUrl: "https://www.tunisietravail.net/uploads/2014/11/sbf.png",
     Phone: "74 467 720",
     Website: "http://www.sbf.com.tn/",
     Governerate: "Sfax",
@@ -491,8 +491,8 @@ const CompaniesData = [
     Name: "RANDA",
     Field: "Agribuisiness,Industrial,Biology,chemical",
     Description:
-      "RANDA est une entreprise tunisienne, spécialisée dans la transformation du blé dur en semoule et de la semoule en produits finis (Pâtes, couscous, farine et dérivés de l’orge). Industriels de la filière blé dur depuis plus de trois décennies, nous assurons une intégration complète de toutes les étapes de notre exploitation, depuis le stockage jusqu’à la fabrication des produits nobles que sont les pâtes et les grains de couscous. Nous conjuguons pour cela un savoir-faire traditionnel et ancestral et les dernières innovations technologiques.",
-    LogoUrl: "http://www.randa.tn/assets/images/logo.png",
+      "RANDA est une entreprise tunisienne, spécialisée dans la transformation du blé dur en semoule et en produits finis .Industriels de la filière blé dur depuis plus de trois décennies, assurant l'intégration complète de toutes les étapes de l'exploitation, depuis le stockage jusqu’à la fabrication des produits nobles .Conjugant pour cela un savoir-faire traditionnel et ancestral et les dernières innovations technologiques.",
+    LogoUrl: "https://www.farojob.net/wp-content/uploads/2016/12/randa.jpg",
     Phone: "71.382.333",
     Website: "http://www.randa.tn/",
     Governerate: "Ben Arous",
@@ -507,7 +507,7 @@ const CompaniesData = [
     Description:
       "CMC est présente dans le domaine de la mode, la confection, la maroquinerie, la chaussure, vêtement de travail, l'ameublement, le médicale, l’automotive et même l’aéronautique",
     LogoUrl:
-      "http://www.cmctunisia.com/wp-content/themes/zerif-lite/images/logo.png",
+      "https://www.keejob.com/media/recruiter/recruiter_15626/logo-15626-20190809-101315.png",
     Phone: "71 547 407",
     Website: "http://www.cmctunisia.com",
     Governerate: "Tunis",
@@ -535,7 +535,7 @@ const CompaniesData = [
     Name: "Numeryx",
     Field: "IT",
     Description:
-      "NUMERYX est une Multinationale à forte croissance, fondée en 2012. Riche en sa diversité, elle compte aujourd’hui plus de 100 collaborateurs entre des consultants et experts à la pointe de la technologie. Etant un centre de service avec une combinaison unique de savoir-faire technologique et d’expertise sectorielle, Numeryx est fortement positionnée sur les métiers de conseil en système d’information, les expertises technologiques et l’ingénierie logiciel (IT et embarqué)",
+      "NUMERYX est une Multinationale à forte croissance, fondée en 2012.Numeryx est fortement positionnée sur les métiers de conseil en système d’information, les expertises technologiques et l’ingénierie logiciel",
     LogoUrl:
       "https://www.keejob.com/media/recruiter/recruiter_17888/logo-17888-20190329-163342.jpg",
     Phone: "31 364 100",
@@ -635,9 +635,9 @@ const CompaniesData = [
     Website: "https://www.instadeep.com/",
     Governerate: "Tunis",
     City: "CUN",
-    Mail: "HELLO@INSTADEEP.COM , communications@instadeep.com ",
+    Mail: "communications@instadeep.com ",
     Address:
-      "mm. ICC, Bloc D, 4rt Floor, Centre Urbain Nord, 1082, Tunis,Tunisia"
+      "Imm.ICC, Bloc D, 4rt Floor, Centre Urbain Nord, 1082, Tunis,Tunisia"
   },
   {
     id: 44,
@@ -666,8 +666,8 @@ const CompaniesData = [
     Website: "http://cofat.com/",
     Governerate: "Tunis",
     City: "Sidi Hassine",
-    Mail: "https://www.linkedin.com/company/cofat-group?originalSubdomain=tn",
-    Address: "KM 10, ROUTE DE FOUCHANA. SIDI HASSINE. 1095 TUNIS- TUNISIEI"
+    Mail: "linkedin.com/company/cofat-group",
+    Address: "Km 10, Route de Fouchana. SIDI HASSINE. 1095 TUNIS- TUNISIEI"
   },
   {
     id: 45,
@@ -694,7 +694,7 @@ const CompaniesData = [
     Website: "https://tn.audi.com/tn/web/fr.html",
     Governerate: "Tunis",
     City: "La goulette",
-    Adress: "Route régionale 23 Tunis, La goulette 2060",
+    Address: "Route régionale 23 Tunis, La goulette 2060",
     Mail: "contact@ennakl.com"
   },
   {
@@ -706,7 +706,7 @@ const CompaniesData = [
     LogoUrl:
       "https://static.wixstatic.com/media/39236c_9df60cb1d3b04e7b8bbee810254f4f9e~mv2.png/v1/crop/x_0,y_158,w_500,h_185/fill/w_268,h_102,al_c,q_85,usm_0.66_1.00_0.01/1.webp",
     Phone: "53979015",
-    Adress: "14 D, rue Emir Abdelkader 1082 Mutuelleville Tunis, Tunisie",
+    Address: "14 D, rue Emir Abdelkader 1082 Mutuelleville Tunis, Tunisie",
     Website: "https://www.vitam-inn.com/",
     Governerate: "Tunis",
     City: "Mutuelleville",
@@ -724,7 +724,7 @@ const CompaniesData = [
     City: "Ariana",
     Governerate: "Tunis",
     Mail: "contact@focus-corporation.com",
-    Adress: "Z.I Chotrana II, Ariana 2036 2094 Ariana, Tunisie"
+    Address: "Z.I Chotrana II, Ariana 2036 2094 Ariana, Tunisie"
   },
   {
     id: 49,
@@ -739,7 +739,7 @@ const CompaniesData = [
     City: "Lac",
     LogoUrl:
       "https://www.soprahr.com/Sitefinity/WebsiteTemplates/App_Themes/Sopra_HR_v2/img/sopra_hr_white.png",
-    Adress:
+    Address:
       "Rue de la Feuille d'Erable, Bloc B, Cité les Pins, Lac II 1053, Tunisie , 1053, Tunis,"
   },
   {
@@ -747,7 +747,7 @@ const CompaniesData = [
     Name: "Omniacom",
     Field: "Telecommunication",
     Description:
-      "Fournisseur à la base de solutions et services de télécommunication, servant les opérateurs et les fournisseurs de services en Afrique et au Moyen Orient, OMNIACOM a décidé de se diversifier dans ses activités et à étoffer son portefeuille de services pour mieux servir ses clients et partenaires. Parmi les nouveaux services mis en place, l'IT, le WEB et l'univers du Multimédia en général constituent son nouveau cheval de bataille. Pour réussir ce pari, OMNIACOM s'est dotée d'une équipe d'ingénieurs hautement qualifiés ayant à leurs actifs des années d'expérience et des «succes stories» leur permettant de relever les défis les plus audacieux.",
+      "Fournisseur à la base de solutions et services de télécommunication ,IT ,Web et multimédia.Servant les opérateurs et les fournisseurs de services en Afrique et au Moyen Orient.OMNIACOM s'est dotée d'une équipe d'ingénieurs hautement qualifiés ayant à leurs actifs des années d'expérience et des leur permettant de relever les défis les plus audacieux.",
     LogoUrl: "http://www.omniacom.com/images/logo_omniacom.jpg",
     Phone: "71 857 738",
     Address:
@@ -840,6 +840,18 @@ const CompaniesData = [
     City: "ksar saîd",
     Mail: "betec@planet.tn",
     Address: "cité bochra,rue ibn el jazar BP 24"
+  },{
+    id: 57,
+    Name: "BIE",
+    Field: "Engineering Consulting",
+    Description: "bureau engineering and expertises",
+    LogoUrl: "",
+    Phone: "71950526",
+    Website: "",
+    Governerate: "Tunis",
+    City: "montplaisir",
+    Mail: "bie@topnet.tn",
+    Address: "Imm, Misk-B11 /1073 Montplaisir tunis "
   },
   {
     id: 58,
@@ -877,7 +889,7 @@ const CompaniesData = [
     Field: "IT",
     Description:
       "Création de propriété intellectuelle et de progiciels dans les domaines suivants : Banque, Assurance, Grande Distribution, Santé, Gouvernance & Démocratie.",
-    LogoUrl: "https://www.vneuron.com/wp-content/uploads/2017/09/logo.png",
+    LogoUrl: "https://thd.tn/wp-content/uploads/2018/06/vneuron.png",
     Phone: "71940459",
     Website: "http://www.vneuron.com/",
     Governerate: "Tunis",
@@ -943,6 +955,20 @@ const CompaniesData = [
     Address: "1053 Rue du Lac Tibériade, Tunis"
   },
   {
+    id: 65,
+    Name: "CBE",
+    Field: "Electronique/IT",
+    Description:
+      "cette entreprise est spécialisée dans le Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé ",
+    LogoUrl: "https://numedia.tn/image/catalog/bt_logo/logo-numedia00.png",
+    Phone: "72360600/72 265 666",
+    Website: "http://Www.numedia.tn/",
+    Governerate: "nabeul",
+    City: "dar chaabane fehri",
+    Mail: " pdv.cbe@gnet.tn",
+    Address: "135 Avenue Habib Bourguiba, Nabeul"
+  },
+  {
     id: 66,
     Name: "CTN",
     Field: "Mechanical,Marine,Industrial",
@@ -977,13 +1003,26 @@ const CompaniesData = [
     Description:
       "CELECTRONIX, filiale de la société Corail Technologie, est un des distributeurs leaders sur le marché du B2B pour les fournitures industrielles, les composants électroniques, robotiques, Arduino, Raspberry, STM32 et équipements didactiques. ",
     LogoUrl:
-      "https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/27750887_959515394195853_383547679031092898_n.png?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=6JkIm4hMRAQAX_vse4u&_nc_ht=scontent.ftun2-1.fna&oh=faf9a0d0d8a11c2608daf529beb82f55&oe=5FCAC220",
+      "https://www.celectronix.com/img/celectronix-logo-1560122786.jpg",
     Phone: "71 427 461",
     Website: "https://www.celectronix.com/",
     Governerate: "Ben arous",
     City: "mégrine",
     Mail: "contact@celectronix.com ",
     Address: "Centre Said Avenue Habib Bourguiba, Mégrine"
+  },{
+    id: 69,
+    Name: "TUNISIE TELECOM",
+    Field: "Telecommunication,IT,Electrical",
+    Description:
+      "Tunisie Télécom propose des services dans le domaine des télécommunications fixes et mobiles",
+    LogoUrl: "https://www.tunisietelecom.tn/_layouts/15/MCS.TT.Internet.UI/assets/img/logo-tt.svg",
+    Phone: "71 856 073/71 857 804/71 857 814",
+    Website: "https://www.tunisietelecom.tn/Fr/Entreprise",
+    Governerate: "Ariana",
+    City: "La Gazelle",
+    Mail: "stages@tunisietelecom.tn",
+    Address: "Parc technologique des télécoms route de Raoued km 3.5"
   },
   {
     id: 70,
@@ -1034,16 +1073,16 @@ const CompaniesData = [
   {
     id: 73,
     Name: "Les Ciments De Bizerte",
-    Field: "Materials",
+    Field: "Materials,Industrial",
     LogoUrl:
-      "http://www.lescimentsdebizerte.ind.tn/images/ar/ciments-bizerte.gif",
+      "https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2019/05/cb.jpg",
     Description:
       "L'usine de la Société les Ciments de Bizerte produit actuellement les liants hydrauliques",
     Phone: "72 43 18 85 - 72 43 11 66 - 72 43 20 79  ",
     Website: "http://www.lescimentsdebizerte.ind.tn/",
     Governerate: "Bizerte",
     City: "Habib Thameur",
-    Mail: "http://www.lescimentsdebizerte.ind.tn/contact.php?lang=ar",
+    Mail: "www.lescimentsdebizerte.ind.tn/contact.php",
     Address: "BP 53 - Avenue Habib Thameur - 7018 Bizerte (Tunisie)"
   },
   {
@@ -1190,11 +1229,11 @@ const CompaniesData = [
     Governerate: "Tunis",
     City: "manar2",
     Mail:
-      "https://www.linkedin.com/in/lassaad-zarraa-2a5b101b/?originalSubdomain=tn",
+      "linkedin.com/in/lassaad-zarraa-2a5b101b/",
     Address: "25,Rue Youssef Rouissi App. N°121 MANAR 2 2092 TUNIS"
   },
   {
-    id: 83,
+    id: 84,
     Name: "Electrostar",
     Field: "Electrical",
     Description:
@@ -1209,7 +1248,7 @@ const CompaniesData = [
     Address: "Rue 8612 - Impasse N°3 - Local N°9"
   },
   {
-    id: 84,
+    id: 85,
     Name: "3S",
     Field: "IT",
     Description:
@@ -1223,7 +1262,7 @@ const CompaniesData = [
     Address: "Immeuble 3S, Lotissement Ennassim Montplaisir, Tunis 1073"
   },
   {
-    id: 85,
+    id: 86,
     Name: "Last Price Tunisie",
     Field: "Finance",
     Description:
@@ -1238,7 +1277,7 @@ const CompaniesData = [
     Address: "41 Rue Tahar Sfar Manar 2 2092 TUNIS"
   },
   {
-    id: 86,
+    id: 87,
     Name: "Wallyscar",
     Field: "Mechanical,Industrial",
     Description:
@@ -1253,7 +1292,7 @@ const CompaniesData = [
     Address: "190,avenue du 15 octobre 1963 Tunis"
   },
   {
-    id: 87,
+    id: 88,
     Name: "DynamixServices",
     Field: "IT",
     Description:
@@ -1266,9 +1305,22 @@ const CompaniesData = [
     City: "El Azib",
     Mail: "info@dynamix-services.com",
     Address: "Pôle Industriel EL Azib Bizerte-Tunisie"
+  },{
+    id: 89,
+    Name: "GOLDEN EYE SECURITY",
+    Field: "Electronics,ELectrical",
+    Description:
+      "GES opère dans le domaine de la sécurité électronique et de la prévention des risques professionnels en offrant une importante gamme de services et des solutions d’ingénierie & conseil en intégration de nouvelles technologie récente en se basant essentiellement sur des réglementations de la sécurité en vigueur et aux exigences normatives internationales en assurent leur exploitation dans les meilleures conditions.",
+    LogoUrl: "",
+    Phone: "71 276 011",
+    Website: "",
+    Governerate: "Tunis",
+    City: "Carthage",
+    Mail: "",
+    Address: "19, Rue Juba 1er Carthage Salambo 2016 TUNIS"
   },
   {
-    id: 89,
+    id: 90,
     Name: "Gfi Tunisie",
     Field: "IT",
     Description:
@@ -1284,7 +1336,7 @@ const CompaniesData = [
       "Immeuble Horizon, , Avenue de la bourse, Les berges du Lac 2, Cité les pins, Tunis, Les berges du lac 1053, TN"
   },
   {
-    id: 90,
+    id: 91,
     Name: "FAZE",
     Field: "Electronics",
     Description:
@@ -1298,9 +1350,9 @@ const CompaniesData = [
     Address: "Rue de cosmos Z. I Grombalia 8030, Nabeul"
   },
   {
-    id: 91,
+    id: 92,
     Name: "TIC",
-    Field: "Services aux entreprises",
+    Field: "Industrial",
     Description:
       "TIC - TECHNIQUE INSPECTION ET CONTROLE nous accompagnons nos clients pour identifier, réduire et maîtriser les risques liés à la qualité, à la sécurité des biens et des personnes et à la protection de l’environnement à travers une large gamme de prestations d’inspection et de contrôle pour l’industrie pétrolière/pétrochimique, Energie, Construction Génie Civil et autres industries",
     LogoUrl:
@@ -1313,7 +1365,7 @@ const CompaniesData = [
     Address: "Zone industrielle Kheiredine, lot 1-1-18 Le Kram 2015 TUNIS"
   },
   {
-    id: 92,
+    id: 93,
     Name: "Netcom",
     Field: "IT",
     Description:
@@ -1328,7 +1380,7 @@ const CompaniesData = [
     Address: "18 bis boulevard principal berges du lac 1053 Tunis - Tunisie "
   },
   {
-    id: 93,
+    id: 94,
     Name: "Ennakl Automobiles",
     Field: "Mechanical",
     Description:
@@ -1342,7 +1394,7 @@ const CompaniesData = [
     Address: "Zone Industrielle Charguia II، Ariana 1080"
   },
   {
-    id: 94,
+    id: 95,
     Name: "Skoda Tunisie",
     Field: "Mechanical",
     Description:
@@ -1357,7 +1409,7 @@ const CompaniesData = [
     Address: "Route régionale 23، Tunis - la goulette 2060"
   },
   {
-    id: 95,
+    id: 96,
     Name: "Sotuver",
     Field: "Industrial,Energy",
     Description:
@@ -1371,7 +1423,7 @@ const CompaniesData = [
     Address: "Z. I Djebel  Oust 1111, Zaghouan"
   },
   {
-    id: 96,
+    id: 97,
     Name: "BinitNS",
     Field: "IT",
     Description:
@@ -1385,12 +1437,12 @@ const CompaniesData = [
     Address: "Bloc A, Immeuble Golden Towers, Centre Urbain Nord, 1082 Tunis"
   },
   {
-    id: 97,
+    id: 98,
     Name: "DataSoft",
     Field: "IT",
     Description:
       "L’évolution de l’entreprise consiste à s’appuyer sur la technologie pour développer de nouveaux modèles économiques et de nouveaux processus",
-    LogoUrl: "https://www.discoveryinformatique.com/fr/assets/images/logo.png",
+    LogoUrl: "https://www.discoveryinformatique.com/sites/default/files/logo.png",
     Phone: "71 942 765",
     Website: "https://www.discoveryinformatique.com/fr",
     Governerate: "Tunis",
@@ -1400,7 +1452,7 @@ const CompaniesData = [
       "Angle rue du métal rue des entrepreneurs, 3ème étage, zone industrielle charguia II – 2035 Tunis Carthage-Tunisie."
   } /*Not valid */,
   {
-    id: 98,
+    id: 99,
     Name: "Proged",
     Field: "IT",
     Description:
@@ -1416,7 +1468,7 @@ const CompaniesData = [
       "Route Gremda Km 4.5, rue ibn jazzar en face de l’immeuble al Yosr. – Sfax 3062."
   },
   {
-    id: 99,
+    id: 100,
     Name: "AppsFactor",
     Field: "IT",
     Description:
@@ -1432,22 +1484,35 @@ const CompaniesData = [
     Address: "Ave Hassen Nouri, C304 Immeuble Business Center, Bizerte 7000"
   },
   {
-    id: 100,
+    id: 101,
     Name: "Proged",
     Field: "IT",
     Description:
       "société de services et d’ingénierie informatique, qui offre une large gamme de solutions innovantes répondant au besoin de tout type d’entreprises en matière de portails d’entreprise, de gestion électronique de documents et d’outils d’aide à la décision",
     LogoUrl:
-      "https://www.progedsolutions.com/wp-content/uploads/2019/07/proged-cargo.pngg",
+      "https://www.progedsolutions.com/wp-content/uploads/2019/07/proged-cargo.png",
     Phone: "29656046",
     Website: "https://www.progedsolutions.com/",
     Governerate: "Tunis",
     City: "Tunis",
     Mail: "contact@progedsolutions.com",
     Address: "Bureau D54, Avenue Dar Fadhal, Résidence Salma Bloc D, Tunis 2036"
+  },{
+    id: 102,
+    Name: "ETAP",
+    Field: "Petroleum",
+    Description:
+      "L’Entreprise Tunisienne d’Activités Pétrolières «ETAP» a été créée en vertu de la Loi N° 72-22 du 10 Mars 1972, elle est classée conformément au décret N° 97-564 du 31 mars 1997 parmi les établissements publics à caractère non administratif (EPNA) et considérée comme entreprise publique .",
+    LogoUrl:
+      "https://www.espacemanager.com/sites/default/files/field/image/etape.png",
+    Phone: "71 28 53 00/70 24 90 00",
+    Website: "http://www.etap.com.tn",
+    Governerate: "Tunis",
+    City: "Tunis",
+    Mail: "saidi@etap.com.tn",
+    Address: "54, Avenue Mohamed V - 1002 Tunis, Tunisie"
   }
 ];
-
 export default CompaniesData;
 //save the work before leaving the codesandbox just in case you added something !!!
 //Please ! Follow the the example ==> https://codeshare.io/G84gkj
@@ -1470,7 +1535,6 @@ A verifier
     Address: "Imm, Misk-B11 /1073 Montplaisir tunis "
   },
   {
-    
     id: 65,
     Name: "CBE",
     Field: "Electronique/Informatique",
@@ -1487,7 +1551,7 @@ A verifier
     {
     id: 88,
     Name: "GOLDEN EYE SECURITY",
-    Field: "Protection Incendies",
+    Field: "Electronics,ELectrical",
     Description:
       "GES opère dans le domaine de la sécurité électronique et de la prévention des risques professionnels en offrant une importante gamme de services et des solutions d’ingénierie & conseil en intégration de nouvelles technologie récente en se basant essentiellement sur des réglementations de la sécurité en vigueur et aux exigences normatives internationales en assurent leur exploitation dans les meilleures conditions.",
     LogoUrl: "",

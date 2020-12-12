@@ -31,11 +31,7 @@ const CompanyCard = ({ Company }) => {
               <b>Location :</b>
             </span>
             <br />
-            <span>
-              {Company.City}, {Company.Governerate}
-            </span>
-            <br />
-            <span>{Company.Adress}</span>
+            <span>{Company.Address}</span>
             <br />
           </div>
           <div className="coords">
