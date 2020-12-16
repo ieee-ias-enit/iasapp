@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iasapp/static/css/main.fe3cbf79.chunk.css",
-    "main.js": "/iasapp/static/js/main.192b9191.chunk.js",
-    "main.js.map": "/iasapp/static/js/main.192b9191.chunk.js.map",
+    "main.js": "/iasapp/static/js/main.faac3244.chunk.js",
+    "main.js.map": "/iasapp/static/js/main.faac3244.chunk.js.map",
     "runtime-main.js": "/iasapp/static/js/runtime-main.6e032ecf.js",
     "runtime-main.js.map": "/iasapp/static/js/runtime-main.6e032ecf.js.map",
     "static/js/2.04fba70c.chunk.js": "/iasapp/static/js/2.04fba70c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6e032ecf.js",
     "static/js/2.04fba70c.chunk.js",
     "static/css/main.fe3cbf79.chunk.css",
-    "static/js/main.192b9191.chunk.js"
+    "static/js/main.faac3244.chunk.js"
   ]
 }
